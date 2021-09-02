@@ -10,11 +10,9 @@ GEM
       git (>= 1.2.5)
       rake
       rdoc
-    json (1.7.5)
     multipart-post (1.1.5)
     rake (10.0.1)
-    rdoc (3.12)
-      json (~> 1.4)
+    rdoc (6.3.1)
     rspec (2.8.0)
       rspec-core (~> 2.8.0)
       rspec-expectations (~> 2.8.0)
@@ -31,5 +29,5 @@ DEPENDENCIES
   bundler (~> 1.0.0)
   faraday (~> 0.8.4)
   jeweler (~> 1.8.4)
-  rdoc (~> 3.12)
+  rdoc (~> 6.3)
   rspec (~> 2.8.0)
